@@ -28,7 +28,7 @@ git push origin master
 
 ## Pull updates
 ```shell
-cd your_directory/MazeTask
+cd your_directory/BirdViewNavigation
 git pull
 ```
 
